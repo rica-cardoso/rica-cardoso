@@ -38,8 +38,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="50" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
