@@ -10,7 +10,11 @@
 
 ###
 
-<div align="center">
+<h2 align="left">My Tech's</h2>
+
+###
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -20,7 +24,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
+
+###
+
+<h3 align="left">Social Media</h3>
 
 ###
 
@@ -38,10 +48,10 @@
 
 ###
 
-<img align="right" height="50" src="https://i.imgflip.com/65efzo.gif"  />
+<img src="https://raw.githubusercontent.com/rica-cardoso/rica-cardoso/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/rica-cardoso/rica-cardoso/output/snake.svg" alt="Snake animation" />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
