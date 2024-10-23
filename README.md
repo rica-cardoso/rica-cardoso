@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Olá! Eu sou o Ricardo Cardoso, desenvolvedor apaixonado por games, especialmente utilizando Unity3D! 💻🎮 Com mais de 5 anos de experiência criando mundos virtuais e experiências imersivas, o desenvolvimento de jogos é a minha verdadeira paixão. ✨<br><br>💼 Tenho grande satisfação em colaborar com empresas e equipes que estão buscando desenvolver seus jogos do zero. Desde pequenos projetos até grandes aventuras, estou pronto para ajudar a criar experiências de jogo que prendam os jogadores e ofereçam diversão inesquecível! 🔥<br><br>Se você busca alguém para desenvolver aquele jogo dos seus sonhos, seja para mobile ou desktop, estou à disposição para transformar essa ideia em realidade!<br><br>Vamos criar juntos? 🚀🎮</h5>
+<h5 align="left">Olá! Eu sou o Ricardo Cardoso, desenvolvedor apaixonado por games, especialmente utilizando Unity3D! 💻🎮 <br>Com mais de 5 anos de experiência criando mundos virtuais e experiências imersivas, o desenvolvimento de jogos é a minha verdadeira paixão. ✨<br><br>💼 Tenho grande satisfação em colaborar com empresas e equipes que estão buscando desenvolver seus jogos do zero. Desde pequenos projetos até grandes aventuras, estou pronto para ajudar a criar experiências de jogo que prendam os jogadores e ofereçam diversão inesquecível! 🔥<br><br>Se você busca alguém para desenvolver aquele jogo dos seus sonhos, seja para mobile ou desktop, estou à disposição para transformar essa ideia em realidade!<br><br>Vamos criar juntos? 🚀🎮</h5>
 
 ###
 
